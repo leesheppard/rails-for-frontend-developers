@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Adding custom fonts](Adding a custom font to Rails apps.md)
-* [Skill testing](Skill testing.md)
- 
+* [Display based on Environment](display-based-on-environment.md)
+* [Adding custom fonts](adding-a-custom-font-to-rails-apps.md)
+* [Skill testing](skill-testing.md)
+

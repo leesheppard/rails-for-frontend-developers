@@ -6,4 +6,9 @@
 * [Skill testing](skill-testing.md)
 * [Specified Ruby version error](specified-ruby-version-error.md)
 * [Resources](resources.md)
+* [Untitled](untitled.md)
+
+## HTML Email
+
+* [Previewing email](html-email/previewing-email.md)
 
